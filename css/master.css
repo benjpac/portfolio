@@ -1,10 +1,38 @@
-h1 {
-
+body {
+  font-family: 'Open Sans',Arial,sans-serif;
+  font-size: 14px;
+  background: #5E9DC8;
+  color: #DCF0F7;
 }
 
-/*#nav-title {
+.page-header {
+  border-bottom: none;
+}
 
-}*/
+.nav-pills > .active > a > .badge {
+  color: #DCF0F7;
+  background-color: #5E9DC8;
+}
+
+a {
+  color: #DCF0F7;
+}
+
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus {
+  color: #DCF0F7;
+  background-color: #0C2C52;
+}
+
+#nav-title h1 {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+#nav-title h1 small {
+  color: #5F6B61;
+}
 
 #nav-bar {
   margin: 10px;
