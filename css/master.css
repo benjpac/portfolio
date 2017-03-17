@@ -1,0 +1,20 @@
+h1 {
+
+}
+
+/*#nav-title {
+
+}*/
+
+#nav-bar {
+  margin: 10px;
+  float: right;
+}
+
+#nav-bar li {
+  padding: 20px;
+}
+
+#about-me-img {
+  width: 400px;
+}
