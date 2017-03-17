@@ -13,16 +13,15 @@ body {
   border-bottom: none;
 }
 
-.nav-pills > .active > a > .badge {
-  color: #DCF0F7;
-  background-color: #5E9DC8;
-}
-
-a {
-  color: #DCF0F7;
-}
-
 .jumbotron {
+  color: #0C2C52;
+}
+
+.nav-pills > li > a {
+  color: #DCF0F7;
+}
+
+.nav-pills > li > a:hover {
   color: #0C2C52;
 }
 
@@ -35,6 +34,10 @@ a {
 
 .page-header {
   font-style: italic;
+}
+
+.clear {
+  clear: both;
 }
 
 #nav-title h1 {
@@ -70,5 +73,7 @@ a {
 
 #about-me-img {
   width: 400px;
+  margin: 50px;
+  border-radius: 5px;
   float: right;
 }
