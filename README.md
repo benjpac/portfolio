@@ -6,7 +6,7 @@
 
 ## Description
 
-_Your project should include the following:
+Your project should include the following:
 
 Your name.
 An image of you, or something that represents you.
@@ -20,22 +20,22 @@ Don't forget your Git commits with an initial commit and a commit for every majo
 
 ## Setup/Installation Requirements
 
-* _go to http://benjpac.github.io/portfolio to view_
+* go to http://benjpac.github.io/portfolio to view
 
 ## Known Bugs
 
-_None_
+None
 
 ## Support and contact details
 
-_Please email me with questions, comments, or bug reports at benjpac@gmail.com_
+Please email me with questions, comments, or bug reports at benjpac@gmail.com_
 
 ## Technologies Used
 
-_Bootstrap_
+Bootstrap
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+* Determine the license under which this application can be used.  See below for more details on licensing. *
 
 Copyright (c) 2016 **_{List of contributors or company name}_**
